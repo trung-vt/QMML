@@ -1,0 +1,2 @@
+- [ ] Will the contest be similar to implementing this paper in this lesson?
+- [ ] Any examples of similar contests? Any platforms? Any mocks?
