@@ -1,0 +1,8 @@
+*.pdf
+*.zip
+*.csv
+*.tgz
+*.JPEG
+*.jpg
+*.png
+.DS_Store
